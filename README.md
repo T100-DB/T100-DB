@@ -68,4 +68,6 @@ License
 
 T100-DB is released under the [MIT License](https://github.com/T100-DB/docs/blob/main/LICENSE.md).
 
+Our [Code of Conduct](https://github.com/T100-DB/T100-DB/blob/main/Code_of_Conduct.md)
+
 Join us in building the future of AI-native data infrastructure!
