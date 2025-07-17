@@ -1,1 +1,1 @@
-
+For a more detailed architectural overview, including visual diagrams and in-depth explanations, please refer to our [Architectural Overview Website](https://github.com/T100-DB/simplified_architecture_overview).
